@@ -11,9 +11,9 @@ export default function Home() {
         {/* Navigation */}
         <nav>
           <ul className="flex gap-4 sm:gap-8 text-lg sm:text-xl text-white">
-            <li><a href="#" className="hover:underline">Home</a></li>
-            <li><a href="#" className="hover:underline">Projet</a></li>
-            <li><a href="#" className="hover:underline">Contact</a></li>
+            <li><a href="/" className="hover:underline">Home</a></li>
+            <li><a href="projet" className="hover:underline">Projet</a></li>
+            <li><a href="contact" className="hover:underline">Contact</a></li>
           </ul>
         </nav>
       </header>

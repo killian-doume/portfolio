@@ -1,6 +1,6 @@
 "use client";
 
-export default function Projet() {
+export default function Contact() {
   return (
     <div className="bg-black text-white font-sans min-h-screen p-4 sm:p-20 flex flex-col">
      {/* Header */}
